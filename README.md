@@ -1,20 +1,65 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📊 Data Analysis App  
+### 🚀 Transform Raw Data into Actionable Insights
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🧠 Overview
 
-View your app in AI Studio: https://ai.studio/apps/7432bef3-58b7-460d-8dae-e0384bdf2064
+The **Data Analysis App** is a full-stack analytics platform designed to process, analyze, and visualize structured datasets in real-time.
 
-## Run Locally
+It enables users to move from **raw data → insights → decisions** through interactive dashboards, automated calculations, and scalable data processing.
 
-**Prerequisites:**  Node.js
+---
 
+## ✨ Key Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 📊 Interactive data visualization dashboards  
+- ⚡ Fast data processing for large datasets  
+- 📁 Upload and analyze structured data (CSV/Excel)  
+- 📈 KPI tracking and summary metrics  
+- 🔍 Drill-down analysis for deeper insights  
+- 🧠 Business-focused analytics (not just charts)  
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technologies |
+|------|------------|
+| **Frontend** | React / Next.js |
+| **Backend** | Node.js / API Layer |
+| **Data Processing** | SQL / Python |
+| **Visualization** | Power BI / Charts |
+| **Database** | PostgreSQL / SQL Server |
+
+---
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="900"/>
+</p>
+
+---
+
+## 🚀 How It Works
+
+1. Upload dataset (CSV / structured data)  
+2. System processes and cleans data  
+3. KPIs and summaries are generated  
+4. Interactive dashboards visualize insights  
+5. Users explore patterns and trends  
+
+---
+
+## 📈 Sample Insights Generated
+
+- Transaction trends over time  
+- Category-wise performance analysis  
+- High-value anomaly detection  
+- Business KPI summaries  
+- Behavioral pattern identification  
+
+---
+
+## 📂 Project Structure
