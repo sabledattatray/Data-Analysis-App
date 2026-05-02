@@ -37,7 +37,7 @@ It enables users to move from **raw data → insights → decisions** through in
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="900"/>
+  <img src="[screenshots/dashboard.png" width=](https://github.com/sabledattatray/Data-Analysis-App/blob/main/screen.png)"900"/>
 </p>
 
 ---
